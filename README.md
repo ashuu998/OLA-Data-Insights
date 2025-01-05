@@ -19,10 +19,10 @@ Vehicle Type
 Cancellation
 Revenue
 Ratings
-
 ![image](https://github.com/user-attachments/assets/0c87d4f0-3c99-4368-aaaf-2db7aed29f67)
 ![image](https://github.com/user-attachments/assets/559f5e46-e755-4105-bb14-aa36386675d3)
 ![image](https://github.com/user-attachments/assets/772e0211-11ce-442c-9408-81ea68534f65)
+![image](https://github.com/user-attachments/assets/12c2cd55-51cf-4f4e-a7d2-e1e0283ff275)
 Steps Involved :- 
 
 Step 1: Download OLA Bookings Dataset
